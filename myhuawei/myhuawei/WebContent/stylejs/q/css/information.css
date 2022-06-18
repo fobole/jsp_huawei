@@ -1,0 +1,147 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.infor-big{
+	width: 100%;
+}
+/* 头部 */
+.infor-top{
+	width: 100%;
+	background: #F1F1F1;
+}
+.infor-top-one{
+	width: 1200px;
+	height: 48px;
+}
+.infor-top-one img{
+	display: inline-block;
+	width: 107px;
+	height: 24px;
+	float: left;
+	margin-top: 12px;
+	margin-right: 5px;
+}
+#infor-shu1{
+	font-size: 12px;
+	color: #D1D1D1;
+	line-height: 48px;
+	margin: 0px 10px;
+	/* float: left; */
+}
+.infor-top-one #infor-shu2{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 48px;
+	cursor: pointer;
+	color: #000000;
+	/* float: left; */
+}
+.infor-top-one p{
+	float: right;
+	cursor: pointer;
+	line-height: 48px;
+	font-size: 14px;
+}
+.infor-top-one p span{
+	float: right;
+	color: #000000;
+}
+#infor-touxiang{
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	border: 1px solid red;
+	margin-top: 12px;
+	margin-left: 5px;
+	border-radius: 12px;
+	
+}
+/* 个人信息——中部 */
+.infor-center{
+	width: 1200px;
+}
+.infor-center-div1{
+	width: 1200px;
+	height: 300px;
+	
+	
+}
+.infor-center-div1>p{
+	float: left;
+}
+.infor-cen-p1{
+	border: 1px solid red;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+.infor-cen-p2{
+	border: 1px solid red;
+	height: 150px;
+	width: 400px;
+	margin-top: 75px;
+	margin-left: 40px;
+}
+.infor-cen-p3{
+	border: 1px solid red;
+	height: 150px;
+	width: 400px;
+	margin-top: 75px;
+	margin-left: 40px;
+}
+.infor-center-div2{
+	border-top: 1px solid #E0E0E0;
+}
+.infor-center-div2>ul{
+	
+	height: 340px;
+	overflow: hidden;
+	margin-left: 180px;
+}
+.infor-center-div2>ul>li{
+	width: 500px;
+	height: 100px;
+	padding-top: 40px;
+	/* border: 1px solid red; */
+	float: left;
+}
+
+.infor-center-div2>ul>li>img{
+	display: inline-block;
+	float: left;
+	vertical-align: middle;
+}
+.infor-center-div2>ul>li>p{
+	margin: 30px;
+	float: left;
+}
+
+/* 底部 */
+.infor-bottom{
+	width: 100%;
+	height: 112px;
+	background: #F1F1F1;
+}
+.infor-bottom-div1{
+	padding: 30px 0px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 30px;
+}
+.infor-bo-p1{
+	color: #606060;
+}
+.infor-bo-p2{
+	color: #A8A8A8;
+}

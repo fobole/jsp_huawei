@@ -1,0 +1,78 @@
+.tuiho{
+	width: 940px;
+	background: pink;
+	
+}
+.tuihuo-one{
+	width: 940px;
+	height: 50px;
+	font-size: 24px;
+	line-height: 50px;
+}
+.tuihuo-two{
+	width: 940px;
+	border-bottom: 1px solid #F6F6F6;
+	height: 46px;
+}
+.tuihuo-two>ul{
+	overflow: hidden;
+	
+}
+.tuihuo-two>ul>li{
+	float: left;
+	height: 44px;
+	width: 120px;
+	line-height: 44px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+}
+#tuihuo-cha{
+	color: #CA141D;
+	border-bottom: 3px solid #CA141D;
+}
+.tuihuo-three{
+	position: relative;
+}
+.tuihuo-three>div{
+	position: absolute;
+	display: none;
+}
+#tuihuo-three-xian{
+	display: block;
+}
+/* 导灰条 */
+.tuihuo-biaoti{
+	width: 940px;
+	height: 46px;
+	background: #F6F6F6;
+	margin: 20px 0px;
+}
+.tuihuo-biaoti>ul{
+	overflow: hidden;
+}
+.tuihuo-biaoti>ul>li{
+	float: left;
+	line-height: 46px;
+	text-align: center;
+}
+.tuihuo-biaoti-li1{
+	width: 500px;
+} 
+.tuihuo-biaoti-li2{
+	width: 60px;
+} 
+.tuihuo-biaoti-li3{
+	width: 180px;
+} 
+.tuihuo-biaoti-li4{
+	width: 200px;
+} 
+/* 退货内容 */
+.tuihuo-three-td1{
+	
+}
+.tuihuo-three-td1 ul{
+	border: 1px solid red;
+}

@@ -1,0 +1,62 @@
+.tuiqian{
+	width: 940px;
+	
+	
+}
+.tuiqian-one{
+	width: 940px;
+	height: 50px;
+	font-size: 24px;
+	line-height: 50px;
+}
+.tuiqian-two{
+	width: 940px;
+}
+.tuiqian-two{
+	margin-top: 30px;
+	background: #F6F6F6;
+}
+.tuiqian-two>ul{
+	overflow: hidden;
+}
+.tuiqian-two>ul>li{
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #888897;
+	float: left;
+	font-size: 14px;
+}
+/* 退钱详情 */
+.tuiqian-two-li1{
+	width: 214px;
+}
+.tuiqian-two-li2{
+	width: 214px;
+}
+.tuiqian-two-li3{
+	width: 180px;
+}
+.tuiqian-two-li4{
+	width: 215px;
+}
+.tuiqian-two-li5{
+	width: 115px;
+}
+
+/* 详情信息 */
+.tuiqian-three{
+	 width: 940px;
+	 margin-top: 10px;
+}
+.tuiqian-three ul{
+	 width: 940px;
+	 overflow: hidden;
+}
+.tuiqian-three ul li{
+	 float: left;
+	 text-align: center;
+	 height: 40px;
+	 line-height: 40px;
+	 cursor: pointer;
+}

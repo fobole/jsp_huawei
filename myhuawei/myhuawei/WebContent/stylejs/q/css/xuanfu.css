@@ -1,0 +1,52 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+.xuanfu{
+	width: 80px;
+	/* height: 348px; */
+	position: fixed;
+	background-color: #FFFFFF;
+	top: 30%;
+	right: 25px;
+	border-radius: 8px;
+	box-shadow: 0 2px 6px 0 rgba(0,0,0,0.07);
+}
+.xuanfu1>ul>li>a{
+	width: 80px;
+	height: 56px;
+	display: block;
+	margin-top: 12px;
+	/* border: 1px solid red; */
+}
+.xuanfu1>ul>li>a>img{
+	display: block;
+	margin: 0 auto;
+	/* border: 1px solid red; */
+}
+.xuanfu1>ul>li>a>span{
+	font-size: 12px;
+	color: #999;
+	display: block;
+	text-align: center;
+}
+.xuanfu2>a{
+	padding-top: 12px;
+	width: 80px;
+	height: 68px;
+	display: block;
+	position: relative;
+}
+.xuanfu2>a>img{
+	display: block;
+	margin: 0 auto;
+	/* border: 1px solid red; */
+}
+.xuanfu2>a>span{
+	font-size: 12px;
+	color: #999;
+	display: block;
+	line-height: 16px;
+	text-align: center;
+	font-style: normal;
+}

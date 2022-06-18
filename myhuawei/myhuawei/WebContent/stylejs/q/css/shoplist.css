@@ -1,0 +1,32 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+ul{
+	list-style: none;
+	
+}
+a{
+	text-decoration: none;
+}
+.listshop-big{
+	width: 100%;
+	background: #F1F3F5;
+}
+.listshop-top{
+	height: 60px;
+	width: 1200px;
+	/* border: 1px solid red; */
+}
+.listshop-top ul{
+	overflow: hidden;
+}
+
+.listshop-top ul li{
+	float: left;
+}
+.listshop-top ul li a{
+	color: #000000;
+	font-size: 12px;
+	line-height: 63px;
+}

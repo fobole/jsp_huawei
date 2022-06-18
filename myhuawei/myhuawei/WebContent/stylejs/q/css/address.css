@@ -1,0 +1,231 @@
+add-one.address{
+	
+	width: 960px;
+	font-family: "微软雅黑";
+}
+.add-one{
+	
+	width: 960px;
+	height: 50px;
+	font-size: 24px;
+	line-height: 50px;
+	border-bottom: 1px solid #DEDEDE;
+	padding-bottom: 10px;
+}
+.add-one>span{
+	font-size: 18px;
+}
+.add-two{
+	/* border: 1px solid red; */
+	margin-top: 20px;
+	width: 740px;
+	margin-left: 0px;
+}
+.add-two>div{
+	/* border: 1px solid red; */
+	overflow: hidden;
+}
+.add-two-td1{
+	float: left;
+	width: 88px;
+	display: inline-block;
+	padding-right: 10px;
+	height: 60px;
+	margin-left: 0px;
+	text-align: right;
+	font-size: 14px;
+	line-height: 60px;
+}
+.add-two-input1{
+	width: 143px;
+	height: 40px;
+	font-size: 14px;
+	border: 1px solid #DEDEDE;
+	padding-left: 13px;
+}
+/* 多行文本框 */
+.add-textatea{
+	border: 1px solid #DEDEDE;
+	padding: 8px 12px;
+	width: 600px;
+	font-size: 14px;
+	margin-left: 98px;
+}
+/* 添加按钮 */
+.add-input-tianjia{
+	/* margin-top: 20px; */
+	margin-right: 20px;
+	width: 158px;
+	height: 40px;
+	color: white;
+	font-size: 20px;
+	border: none;
+	background: #E88B00;
+}
+.add-input-tianjia:hover{
+	background: #FDB140;
+}
+/* 清空按钮 */
+.add-input-qingkong{
+	width: 158px;
+	height: 40px;
+	font-size: 20px;
+	background: white;
+	border: 1px solid #888888;
+	color: #888888;
+}
+.add-input-qingkong:hover{
+	background: #888888;
+	color: white;
+}
+
+/* 地址区 */
+.add-three{
+	width: 960px;
+	height: 40px;
+	background: #FAFAFA;
+	margin-top: 30px;
+}
+.add-three>ul{
+	overflow: hidden;
+}
+.add-three>ul li{
+	float: left;
+	line-height: 40px;
+	text-align: center;
+	font-size: 14px;
+	color: #888888;
+}
+.add-three-li1{
+	width: 138px;
+}
+
+.add-three-li2{
+	width: 320px;
+}
+.add-three-li3{
+	width: 100px;
+}
+
+.add-three-li4{
+	width: 173px;
+}
+
+.add-three-li5{
+	width: 200px;
+}
+
+/* 我的地址 */
+.add-four-td1{
+	width: 138px;
+	text-align: center;
+}
+
+.add-four-td2{
+	width: 300px;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.add-four-td3{
+	width: 100px;
+	text-align: center;
+}
+
+.add-four-td4{
+	width: 173px;
+	
+}
+
+.add-four-td5{
+	width: 250px;
+	/* overflow: hidden; */
+	
+}
+.add-table-tr1{
+	height: 60px;
+	text-align: center;
+	font-size: 14px;
+	
+	border-bottom: 1px solid #F2F2F2;
+ 
+}
+.add-table{
+	border-collapse: collapse;  /*表格边框折叠，大部分表格都是这样*/
+	border-spacing: 0;            /*控制单元格之间的距离*/
+}
+.add-four-td5 p{
+	float: left;
+}
+.add-four-p1{
+	margin-left: 10px;
+	width: 50px;
+	border-right: 1px solid #DEDEDE;
+	cursor: pointer;
+	
+}
+.add-four-p2{
+	/* border: 1px solid #DEDEDE; */
+	width: 50px;
+	border-right: 1px solid #DEDEDE;
+	cursor: pointer;
+}
+.add-four-p3{
+	width: 100px;
+	
+	cursor: pointer;
+	/* display: none; */
+}
+#add-fp3{
+	color: #D9631E;
+	display: block;
+}
+
+/* 省 */
+#addsheng{
+	/* height: 38px; */
+}
+/* 市 */
+#addshi{
+	
+}
+/* 区 */
+#addqu{
+	
+}
+.not-arrow{
+	border: 1px solid #DEDEDE;
+	display: inline-block;
+	height: 38px;
+	margin-right: 10px;
+}
+.province{
+	margin-top: 10px;
+	width: 200px;
+	padding-left: 10px;
+}
+.city{
+	width: 200px;
+	padding-left: 10px;
+}
+.district{
+	width: 195px;
+	padding-left: 10px;
+}
+
+
+/* 重新定义 */
+.add-cdy1{
+	float: left;
+	margin-top: 10px;
+}
+#mmrr{
+	display: inline-block;
+	float: left;
+	margin-top: 12px;
+}
+#mmrr-s1{
+	display: inline-block;
+	float: left;
+	margin-top: 10px;
+}

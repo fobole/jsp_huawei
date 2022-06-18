@@ -1,0 +1,317 @@
+/* 图片大小 */
+.goods-img1{
+	height: 40px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* 订单详情 */
+.container-fluid1{
+	margin-bottom: -30px;
+}
+
+.bigtype-big{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+	top: 0px;
+	z-index: 3;
+}
+.bigtype-big-one{
+	width: 50%;
+	height: 50%;
+	background: white;
+	margin: 10% 0px 0px 30%;
+}
+/* 新增商品 */
+.color-img1{
+	/* border: 1px solid red; */
+	position: relative;
+}
+
+.shop-tianjia{
+	/* border: 1px solid red; */
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.label1{
+	/* border: 1px solid red; */
+	width: 85px;
+	margin-left: 15px;
+}
+.shop-tianjia input{
+	display: inline-block;
+	width: 300px;
+}
+.shop-tianjia1 select{
+	display: inline-block;
+	width: 300px;
+	margin-right: 20px;
+}
+.shop-tianjia1{
+	/* border: 1px solid red; */
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.shop-tianjia2{
+	overflow: hidden;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.imgcha{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	/* border: 1px solid red; */
+}
+.imgcha2{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	/* border: 1px solid red; */
+}
+.shop-tianjia2>label{
+	float: left;
+	width: 100%;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+.shop-tianjia2-one{
+	padding: 8px 5px;
+	margin: 10px 5px;
+	float: left;
+	/* border: 1px solid red; */
+	width: 260px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.shop-tianjia2-one label{
+	margin-left: 15px;
+	float: left;
+	width: 75px;
+	line-height: 35px;
+}
+.shop-tianjia2-one input{
+	width: 150px;
+	display: block;
+	float: left;
+}
+.shop-tianjia2-one>div{
+	 float: left; 
+	 overflow: hidden;
+	 /* margin-bottom: 5px; */
+	/* border: 1px solid red; */
+	
+}
+.shop-tianjia2-one div ul{
+	/* float: left; */
+	overflow: hidden;
+	/* border: 1px solid red; */
+	margin-left: 0px;
+	width: 250px;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+.shop-tianjia2-one div ul li{
+	width: 50px;
+	height: 50px;
+	background: #009F95;
+	float: left;
+	margin-left: 25px;
+	margin-bottom: 10px;
+}/* 版本 */
+.shop-tianjia2{
+	/* border: 1px solid red; */
+	overflow: hidden;
+	
+}
+.yp-fuzhi{
+	/* border: 1px solid red; */
+	position: relative;
+}
+.yp-fuzhi button{
+	position: absolute;
+	right: 20px;
+	top: 40px;
+	z-index: 1;
+}
+.shop-tianjia3{
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	/* border: 1px solid red; */
+	width: 350px;
+	float: left;
+	overflow: hidden;
+	margin: 10px;
+	padding: 10px 0px 10px 20px;
+	position: relative;
+}
+.shop-tianjia3>div{
+	margin-bottom: 20px;
+}
+.shop-tianjia3 label{
+	float: left;
+	width: 90px;
+	line-height: 35px;
+	margin-bottom: 8px;
+}
+.shop-tianjia3 input{
+	display: inline-block;
+	width: 200px;
+}
+.yp-fuzhi2{
+	/* border: 1px solid red; */
+	float: left;
+	margin: 10px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.xuan-sx label{
+	/* float: left; */
+}
+
+
+/* 加颜色图 */
+.jia-img1{
+	display: inline-block;
+	width: 43px;
+	height: 40px;
+	margin: 20px 20px 0px 0px;
+	/* border: 1px solid red; */
+	background: palegoldenrod;
+}
+/* 配置 */
+.peizhi{
+	width: 400px;
+	height: 200px;
+	/* border: 1px solid red; */
+	margin-left: 30px;
+	position: relative;
+}
+.fuzhi{
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	z-index: 3;
+}
+
+.peizhi label{
+	/* font-weight: 200; */
+	height: 30px;
+	line-height: 30px;
+}
+#kelong{
+	/* border: 1px solid red; */
+	padding-top: 10px;
+	padding-bottom: 30px;
+	/* overflow: hidden; */
+}
+.cha-dw{
+	position: relative;
+}
+#cha-one{
+	position: absolute;
+	right: 20px;
+	top: 10px;
+	z-index: 2;
+	cursor: pointer;
+	width: 20px;
+	height: 20px;
+}
+
+/* 类别弹出陈*/
+.type-tianjia{
+	overflow: hidden;
+	margin-top: 50px;
+}
+.type-tianjia label{
+	float: left;
+	width: 80px;
+	line-height: 35px;
+	margin-left: 60px;
+}
+.type-tianjia input{
+	display: inline-block;
+	width: 300px;
+}
+.type-qd{
+	display: inline-block;
+	/* margin: 20px auto 0px; */
+	margin-left: 70px;
+	margin-top: 45px;
+}
+
+/* .type-big-td1{
+	/* border: 1px solid red; */
+	/* width: 10px; */
+
+/*  */
+/* .shop-one{
+	border: 1px solid red;
+}
+.shop-one label{
+	float: left;
+} */
+/* .shop-one input{
+	float: left;
+	display: inline-block;
+	width: 0px;
+} */
+
+/* 回复弹出层 */
+.huifu-di{
+	overflow: hidden;
+	margin-top: 20px;
+}
+.huifu-di label{
+	display: inline-block;
+	width: 100px;
+	float: left;
+	margin-left: 50px;
+}
+.huifu-di textarea{
+	display: block;
+	float: left;
+	width: 300px;
+}
+.ggao-huifu{
+	display: block;
+	margin: 30px auto 0px;
+	
+}
+
+
+/* 广告弹出层 */
+.ggao-tcc{
+	/* border: 1px solid red; */
+	overflow: hidden;
+	margin-top: 30px;
+}
+.ggao-tcc label{
+	display: inline-block;
+	float: left;
+	width: 150px;
+	text-align: center;
+	line-height: 35px;
+	/* margin-left: 30px; */
+}
+.ggao-tcc select{
+	display: inline-block;
+	float: left;
+	width: 300px;
+}
+.ggao-tcc input{
+	display: inline-block;
+	float: left;
+	width: 300px;
+	margin-top: 5px;
+}
+.ggao-tijiao{
+	display: block;
+	margin: 40px auto 0px;
+	
+}
+#cupload-update{
+	/* border: 1px solid red; */
+}

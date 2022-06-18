@@ -1,0 +1,153 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+}
+.denglu_big{
+	/* border-top: 1px solid #F1F3F5; */
+	width: 100%;
+	
+}
+#deng-shang{
+	/* border: 1px solid #00FF00; */
+	height: 38.4px;
+	background-color: #f1f1f1;
+}
+
+#deng-shang-zhong{
+	width: 1200px;
+	height: 38.4px;
+	/* border: 1px solid #FFC0CB; */
+}
+#deng-shang-zhong>img{
+	width: 86.15px;
+	height: 19.2px;
+	margin-top: 9.8px;
+	margin-left: 250px;
+}
+#shang-1{
+	color: #C2CED5;
+	margin-left: 10px;
+}
+#deng-shang-zhong>p{
+	/* border: 1px solid #2C2D2D; */
+	font-size: 12.8px;
+    color: #191919;
+    font-weight: 700;
+	width: 60px;
+	margin-top: -21px;
+	margin-left: 370px;
+	/* margin-left:9px;
+	margin-top: 10px;
+	 */
+	
+	
+}
+.denglu_zhong{
+	border: 1px solid white;
+	width: 1200px;
+	height: 177.28px;
+	
+	
+}
+.denglu_zhong>p{
+	/* border: 1px solid #00FF00; */
+	width: 1200px;
+	height: 34px;
+	text-align: center;
+	margin-top: 80px;
+	font-size: 25.6px;
+}
+.denglu_hou{
+	width: 1200px;
+	height: 341px;
+	/* border: 1px solid peru; */
+}
+#hou-1{
+	width: 288px;
+	height: 233.85px;
+	/* border: 1px solid royalblue; */
+	margin-left: 250px;
+}
+#hou-1>img{
+	width: 160px;
+	height: 160px;
+	/* border: 1px solid #003150; */
+	background: #F7F7F7;
+	
+	margin-left: 60px;
+}
+#hou-1>p{
+	    color: rgba(0,0,0,.6);
+		font-size: 12px;
+		margin-top: 35px;
+}
+#hou-3{
+	width: 1px;
+	height: 240px;
+	/* border: 1px solid #C2CED5; */
+	border-left: white;
+	border-top: white;
+	border-bottom: white;
+	margin-top: -236px;
+}
+#hou-2{
+	width: 288px;
+	height: 202.37px;
+	/* border: 1px solid #00FF00; */
+	margin-top: -240px;
+	margin-left: 655px;
+}
+#hou-2a input{
+	border:none;
+	display: block;
+	border-radius: 6px;
+	width: 285.98px;
+	height: 38.4px;
+	margin-bottom: 16px;
+	padding-left: 15px;
+	    background: rgba(0,0,0,.05);
+	/* margin-top: 10px; */
+	/* color:#191919 ; */
+}
+#hou-2>p{
+	font-size: 11.200000000000001px;
+	color: #007dff;
+	margin-top: 12px;
+}
+#hou-2b input{
+	width: 288px;
+	height: 38.4px;
+	background-color: #ca141d;
+	border:#ca141d ;
+	border-radius: 5px;
+	color: white;
+	margin-top: 33px;
+	
+	
+}
+#hou-4{
+	width: 288px;
+	height: 22px;
+	/* border: 1px solid #007DFF; */
+	margin-top: 25px;
+	text-align: center;
+	
+}
+#hou-4>p{
+	
+	    font-size: 12.8px;
+		    line-height: 1;
+}
+.hou-4-a{
+	color: #007DFF;
+	display: inline-block;
+	
+}
+.hou-4-b{
+	color: #C2CED5;
+	display: inline-block;
+	margin: 10px;
+}
